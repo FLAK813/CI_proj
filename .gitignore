@@ -1,0 +1,7 @@
+# 忽略数据文件和中间产物
+train.parquet
+artifacts/
+__pycache__/
+.ipynb_checkpoints/
+myenv/
+.DS_Store
